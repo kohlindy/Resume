@@ -1,0 +1,80 @@
+{
+    margin:10px;
+}
+
+table {
+    border: 2px solid black;
+    width: 100%;
+}
+th {
+    background-color: cadetblue;
+}
+
+body{
+    background-color:whitesmoke;
+}
+
+#home {
+    background-color:  #483355;
+    margin-left:-1cm;
+    margin-right:-1cm;
+    margin-top:-1cm;
+    padding-top: 1cm;
+    padding-bottom: 1.5cm;
+    font-family: Times New Roman;
+   }
+
+    header {
+        float: left;
+        padding-left: 2cm;
+        color:white;
+        font-size: x-large;
+    }
+
+    .about {
+        float: left;
+        padding-left: 2cm;
+        color:gainsboro;
+        font-size:small;
+        margin-top:0.25cm;
+    }
+
+    .topdiv {
+        text-align: right;
+        margin-right: 2cm;
+        margin-top: -1.5cm;
+   }
+
+    
+
+    .topmenu {
+        color:lightgrey;
+        border-radius: 10mm;
+        background-color: #483355;
+    }
+
+
+    .topmenu:hover{
+        color: white;
+        font-weight:bolder;
+        background-color:#382742;
+        text-decoration: underline;
+    }
+
+#Intro {
+    font-family: Times New Roman;
+    text-align:left;
+}
+
+#all-sections{
+}
+
+    h3{
+        text-decoration: underline;
+    }
+
+
+footer {
+    margin-top: 20px;
+}
+
